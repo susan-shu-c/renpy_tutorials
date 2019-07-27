@@ -10,4 +10,4 @@ I wanted to do an overlay to emulate a hologram-like image without using Photosh
 
 Using the code snippet in the `.rpy` I applied it to the Ren'Py tutorial image that everyone has seen:
 
-![Image of Eileen with hologram](/hologram_overlay/hologram_example.jpg)
+![Image of Eileen with hologram](/hologram_overlay/hologram_example.png)
