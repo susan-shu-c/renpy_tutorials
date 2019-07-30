@@ -6,7 +6,7 @@ This repository gathers some of the interesting implementations I came across wh
 
 I wanted a funny way to zoom into a part of the character sprite I have. This is done without manual cropping, resizing, or flipping the source image - all done with code, and with one single source image.
 
-![Example of troll zoom](/doge_trollzoom/trollzoom_example.gif)
+<img src="/doge_trollzoom/trollzoom_example.gif" alt="Example of troll zoom" width="400">
 
 ## Hologram overlay
 
